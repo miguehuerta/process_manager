@@ -4,7 +4,7 @@ project to maage any linux process
 
 Just add your processes to constants.py file like the example and manage them
 
-#!/bin/python
+```
 
 SERVICES=[
     {
@@ -20,3 +20,4 @@ SERVICES=[
         'category':'utils'
     }
 ]
+```
